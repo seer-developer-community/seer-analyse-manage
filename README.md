@@ -2,7 +2,7 @@
 
 系统环境：centos7
 
-## 1. 安装Nginx
+## 1. 安装nginx
 
 `yum install -y nginx`
 
@@ -50,3 +50,5 @@ server {
 ```
 systemctl restart nginx
 ```
+
+在浏览器打开 服务器ip或域名 即可访问平台
